@@ -3,7 +3,7 @@ Tutorial on Neuroimaging Methods Workshop
 
 We will cover the following tutorials:
 
-1. The steps to generate the structural connectome from mrtrix3
+1. The steps to generate the structural connectome from mrtrix3. [The script of the whole process is uploaded.]
 
 2. The steps to generate functional time series from nilearn.
 
