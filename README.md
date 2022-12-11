@@ -16,3 +16,10 @@ We will cover the following tutorials:
 5. An example of the numerical optimization in pytorch
 
 6. Fusion modeling of brain structure and functional dynamics. [The code will be uploaded soon!]
+
+
+Note: 
+
+The data (Structural Connectome and Functional Time series) we generated in the AAL atlas can be downloaded at this link:
+
+https://drive.google.com/file/d/1agr098EzagyRrqA9WXfCqCjFEXV4Akve/view?usp=sharing
