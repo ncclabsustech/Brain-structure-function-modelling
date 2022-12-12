@@ -1,7 +1,7 @@
 # Brain structure-function modelling (DTI and fMRI).
 Tutorials on Neuroimaging Methods Workshop, CityU HK, 2022 
 
-The slides in this workshop is **uploaded**.
+The slide in this workshop is **uploaded**.
 
 We cover the following tutorials:
 
