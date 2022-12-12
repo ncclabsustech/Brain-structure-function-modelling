@@ -1,6 +1,8 @@
 # Brain structure-function modelling (DTI and fMRI).
 Tutorials on Neuroimaging Methods Workshop, CityU HK, 2022 
 
+The slides in this workshop is **uploaded**.
+
 We cover the following tutorials:
 
 1. The steps to generate the structural connectome from **DTI** in mrtrix3 toolbox. [The script of the whole process is uploaded.]
