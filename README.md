@@ -1,7 +1,7 @@
-# NM_workshop
-Tutorial on Neuroimaging Methods Workshop
+# Brain structure-function modelling (DTI and fMRI).
+Tutorials on Neuroimaging Methods Workshop, CityU HK, 2022 
 
-We will cover the following tutorials:
+We cover the following tutorials:
 
 1. The steps to generate the structural connectome from mrtrix3. [The script of the whole process is uploaded.]
 
