@@ -3,9 +3,9 @@ Tutorials on Neuroimaging Methods Workshop, CityU HK, 2022
 
 We cover the following tutorials:
 
-1. The steps to generate the structural connectome from mrtrix3. [The script of the whole process is uploaded.]
+1. The steps to generate the structural connectome from **DTI** in mrtrix3 toolbox. [The script of the whole process is uploaded.]
 
-2. The steps to generate functional time series from nilearn.
+2. The steps to generate functional time series from **fMRI** in nilearn toolbox.
 
 3. The python implementation of the partial least square analysis of structural connectome and functional connectivity. 
 
